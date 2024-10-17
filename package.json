@@ -36,6 +36,13 @@
     "typescript": "5.3.3"
   },
   "manifest": {
+    "oauth2": {
+      "client_id": "omiklgpmhffmfolkjdaaabonoanemkig",
+      "scopes": [
+        "<https://www.googleapis.com/auth/userinfo.email>",
+        "<https://www.googleapis.com/auth/userinfo.profile>"
+      ]
+    },
     "host_permissions": [
       "https://*/*"
     ],
